@@ -1,5 +1,5 @@
 # Portfolio
-Some examples of my programming work! Feel free to take a look! There are 6 files found here, 5 of them are homeworks from my course in R and the other file is a project I created in that same class highlighting functions of my choice and their purposes and descriptions. 
+Here are some examples of my programming work, from a class I took in R and R studio! Feel free to take a look! There are 6 files found here, 5 of them are homeworks from my course in R and the other file is a project I created in that same class highlighting functions of my choice and their purposes and descriptions. 
 
 -  Bio 316 HW 2.R is an assignment that focused on the basics of R such as creating comments, vectors, installing/loading packages, and finally creating objects.
 -  Bio 316 HW 3.R is an assignment that focused on R markdown and its specific syntax and layout as well as loading data into R studio and filtering said data.
